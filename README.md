@@ -1,3 +1,5 @@
+![screenshot](https://raw.github.com/BluWings/apache-wicket-jee-example/master/part-1/screenshots/addressbook.png)
+
 ## SEE ALSO
 
 * Part 1: http://www.smb-tec.com/2012/12/21/wicket-sample-application-contact-manager-requirements-and-screen-mockups
