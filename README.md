@@ -3,7 +3,7 @@
 ## SEE ALSO
 
 * Part 1: http://www.smb-tec.com/2012/12/21/wicket-sample-application-contact-manager-requirements-and-screen-mockups
-* Part 2:
+* Part 2: http://www.smb-tec.com/2013/01/07/wicket-sample-application-contact-manager-adding-jpa-to-the-sample-application
 
 ## LICENSE
 
